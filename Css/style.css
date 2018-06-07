@@ -1,0 +1,35 @@
+.b1 {
+    position: relative;
+    width: 100px;
+    height: 20px;
+    background-color: gold;
+  }
+  .b2 {
+    position: relative;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(29, 221, 228);
+  }
+  .b3 {
+    position: relative;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(49, 29, 228);
+  }
+  .b4 {
+    position: relative;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(195, 29, 228);
+  }
+  .b5 {
+    position: relative;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(228, 29, 29);
+  }
+  .main{
+    width: 100%;
+    height: 500px;
+     border:1px solid green;
+  }
